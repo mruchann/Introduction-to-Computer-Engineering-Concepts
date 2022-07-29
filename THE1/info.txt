@@ -1,0 +1,3 @@
+THE1 was not an actual take home exam like other THE's, instead it was an online exam.
+We were given 16 different CPU instructions and we were expected to calculate 4 different
+sequences of instructions in 2 hours where we simulated the actions of the CPU.
